@@ -56,3 +56,7 @@ RestSharp.IntegrationTests/config.json
 /docs/.vuepress/dist/
 .vscode/
 .temp/
+
+# ignore all files starting with '.' except .gititnore
+.*
+!.gitignore
